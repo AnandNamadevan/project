@@ -1,0 +1,79 @@
+.buttoncolorone{
+    border: none;
+    color:white;
+    background-color: #31B776;
+    border-radius: 4px;
+    width: 335px;
+    height: 32px;
+  }
+ .buttoncolortwo{
+    border: none;
+    color:white;
+    background-color: #2BA168;
+    border-radius: 4px;
+    width: 335px;
+    height:32px;
+ } 
+ 
+ .buttoncolorthree{
+   border: none; 
+   background-color: 
+   #BCC3D0;
+   border-radius: 4px;
+   width: 335px;
+   height: 32px;
+}
+.buttoncolorfour{
+   border: none;
+   color:white;
+   background-color:#31B776;
+   border-radius: 4px;
+   width: 335px;
+   height: 44px;
+}
+.buttonload {
+   background-color: #04AA6D; /* Green background */
+   border: none; /* Remove borders */
+   color: white; /* White text */
+   padding: 12px 16px; /* Some padding */
+   font-size: 16px /* Set a font size */
+ }
+ 
+ .settingsearchinput :hover{
+   border-color: rgb(243, 101, 203); 
+ }
+ .popupoverlay{
+  border: 2px solid red;
+  background-color: #04AA6D;
+  z-index: 10;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+ }
+ .popupdatas{
+  background-color: black;
+  color: white;
+ }
+ .paragraph{
+  margin: 10px;
+ }
+ .modal-backdrop{
+  display: none !important;
+ }
+ /* .modal{
+  position:absolute;
+  bottom: 10px;
+  z-index: 10000;
+ } */
+
+ .modal-dialog {
+  position: absolute !important;
+ left: 40%;
+ bottom: 0;
+   
+}
+ 
+
+ 
+
+ 
